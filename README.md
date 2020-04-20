@@ -423,7 +423,44 @@ Making a Game? Or Animated Video?
 
 ## Transcoding 3 : Translated Version of the Script
 
-WIP
+This project was propelled in 2003 as a private assistance project of the National Human Rights Commission of the Republic of Korea, but it is clarified that ‘it does not represent the official opinion of the National Human Rights Commission’ 
+
+December 17, 2001
+
+(Official of Military Manpower Administration) 
+Why are you causing all this fuss when it’s your enlistment day today?  
+
+
+(Official of solidarity) 
+Mr. Tae Yang Oh isn’t simply rejecting his military service, as he respects the current (military service) system…However, he is aiming to making a sincere approach towards the matter (conscientious objection of military service) based on his personal conscience. 
+
+
+(Military Manpower Administration)
+What’s there to think about sincerely? If he avoids military service, then it is military service objection.     
+
+————————————————————————
+(Mother)
+It makes me sad… What’s there to brag about, he’s not going to the army. Haha. Someone who goes against the national law doesn’t have anything to show off. He might end up in prison…
+
+————————————————————————
+
+Minkanhyup Human Rights Group Thursday Assembly
+
+(Jin Woo Chung, Minister of Wolgok Church) 
+
+Love your neighbor like yourself.  I am a minister myself and I absolutely believe in this command, so while they are pushing through in order to keep their conscience, build peace, and observe the truth, I acted as if I was blind and deaf and pointed my finger at them as I did not bother to earnestly listen to their voices. I can’t express in words how ashamed and miserable I feel about myself… We threw all those promising young men into prison, and what did we get out of it…
+
+
+(Yoon Ho Lee, Conservative Youth Group)  
+
+Others all serve in the army regardless of personal preference, either for or against their own will. How can they do that if they really do have a conscience? Military service incentive was abolished and you get the weird look from women after returning from military service. Your brain fogs up, and you rot in the army. There’s nothing good about going to the army. But then, how about them? They are just trying to have it easy. What’s so special about them, giving them the special advantage?  
+
+(Yong Wook Chung, Solidarity For Peace & Human Rights)
+
+Conscience isn’t a concept that simply involves traditional values or personal ethical values. Instead, it is also a way of expressing personal perspectives, opinions, and claims as upright and mature citizens in the society… 
+
+....
+(Wip)
 
 ---
 
