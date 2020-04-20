@@ -429,28 +429,130 @@ WIP
 
 ## Transcoding 4: A Play? Or A Game?
 
-[Stage Setting](Then%20what%20is%20the%20next%20one/Stage%20Setting.csv)
+[Stage Setting](https://www.notion.so/e30cddb7f532420da67367dfe9369c71)
+
+## Characters
+
+![Then%20what%20is%20the%20next%20one/kbtlove_168332_1208276.jpg](Then%20what%20is%20the%20next%20one/kbtlove_168332_1208276.jpg)
+
+1. Oh Tae Yang (Objector) - The Main Character of this animation
+
+![Then%20what%20is%20the%20next%20one/5.png](Then%20what%20is%20the%20next%20one/5.png)
+
+2. Military Manpower Administration Officer - Who thinks the objection is just an objection (He believes there is no other meaning it can have)
+
+![Then%20what%20is%20the%20next%20one/6.png](Then%20what%20is%20the%20next%20one/6.png)
+
+3. Oh's Mother - Who doesn't want him to go to jail, but cannot do anything. 
+
+![Then%20what%20is%20the%20next%20one/10.png](Then%20what%20is%20the%20next%20one/10.png)
+
+4. A Catholic Priest - Who supports Objectors
+
+![Then%20what%20is%20the%20next%20one/11.png](Then%20what%20is%20the%20next%20one/11.png)
+
+5. A Member of Youth Right Wing Party - He thinks the objectors are villain in the Korean society.
+
+![Then%20what%20is%20the%20next%20one/13.png](Then%20what%20is%20the%20next%20one/13.png)
+
+6. A Member of Peace Union Organisation - He has the opposite mind of guy who is in Right Wing Party.
+
+![Then%20what%20is%20the%20next%20one/14.png](Then%20what%20is%20the%20next%20one/14.png)
+
+7. Member of Korea Veterans Association - He believes the army should be kept for keeping Peace,
+
+![Then%20what%20is%20the%20next%20one/16.png](Then%20what%20is%20the%20next%20one/16.png)
+
+8. A Professor in Law - He believes the objectors should be in jail.
+
+![Then%20what%20is%20the%20next%20one/17.png](Then%20what%20is%20the%20next%20one/17.png)
+
+9. Another Professor in Law - He supports the objector's belief.
+
+![Then%20what%20is%20the%20next%20one/18.png](Then%20what%20is%20the%20next%20one/18.png)
+
+10. A Member of Freedom Alliance - He thinks the objectors should be in the jail as it is their choice and their responsibility.
+
+![Then%20what%20is%20the%20next%20one/19.png](Then%20what%20is%20the%20next%20one/19.png)
+
+11. A South Korean Critic - He believes the society towards Objectors behaves cruely
+
+![Then%20what%20is%20the%20next%20one/23.png](Then%20what%20is%20the%20next%20one/23.png)
+
+12. Another Objector - He was in jail almost for 5 years. He couldn't have any dream about outside of jail after being in there for 1 and half years.
+
+![Then%20what%20is%20the%20next%20one/29.png](Then%20what%20is%20the%20next%20one/29.png)
+
+13. Pre-Objector : As a gay, he even cannot serve the military service since the society believes being queer is 'disease'. 
+
+![Then%20what%20is%20the%20next%20one/30.png](Then%20what%20is%20the%20next%20one/30.png)
+
+14. Pre-Objector : A member of protest organisation of Korea Unity.
+
+![Then%20what%20is%20the%20next%20one/32.png](Then%20what%20is%20the%20next%20one/32.png)
+
+15. A Supporter of KSCO: She believes, for gender equality, it should be realised disappearing of Conscription in Korea.
+
+![Then%20what%20is%20the%20next%20one/33.png](Then%20what%20is%20the%20next%20one/33.png)
+
+16. Another Supporter of KSCO : She believes, for gender equality, it should be realised disappearing of Conscription in Korea.
+
+![Then%20what%20is%20the%20next%20one/34.png](Then%20what%20is%20the%20next%20one/34.png)
+
+17. Another Objector : who protest on the day of Constitution Day
+
+![Then%20what%20is%20the%20next%20one/35.png](Then%20what%20is%20the%20next%20one/35.png)
+
+18. A Citizen : who start having a discussion with the Protestor.
+
+![Then%20what%20is%20the%20next%20one/39.png](Then%20what%20is%20the%20next%20one/39.png)
+
+19. A Russian-South Korean Columnist : He thinks the Public opinion has been manipulated to think North Korea is enemy and they need to keep their army for saving Country by the government.
 
 ## How the Stages Look like
+
+- Main Page
+
+The Main page of Web animation(game) would be like a map to see all the storyline you can check.
+
+![Then%20what%20is%20the%20next%20one/like_as_a_game_map.jpeg](Then%20what%20is%20the%20next%20one/like_as_a_game_map.jpeg)
+
+Example
 
 ![Then%20what%20is%20the%20next%20one/STAGE-SETTING.jpg](Then%20what%20is%20the%20next%20one/STAGE-SETTING.jpg)
 
 ---
 
+- Stage 1 : Oh tae yang goes to the Military Manpower Administration to submit a form to object the service with his mother and his supporter.
+
 ![Then%20what%20is%20the%20next%20one/stage1.jpg](Then%20what%20is%20the%20next%20one/stage1.jpg)
 
 ---
+
+- Stage 2 : A Pros and Cons towards KSCO
 
 ![Then%20what%20is%20the%20next%20one/stage2.jpg](Then%20what%20is%20the%20next%20one/stage2.jpg)
 
 ---
 
+- Stage 3 : A meeting between KSCO Youth team. 3 objectors and 2 supporters talk about how they think towards the existing military service, and why they decide supporting KSCO.
+
 ![Then%20what%20is%20the%20next%20one/stage3.jpg](Then%20what%20is%20the%20next%20one/stage3.jpg)
 
 ---
+
+- Stage 4  : A protestor who is going to be an objector has a discussion between a Citizen in front of the Korean Congress. The citizen seems a person from the Congress.
 
 ![Then%20what%20is%20the%20next%20one/stage4.jpg](Then%20what%20is%20the%20next%20one/stage4.jpg)
 
 ---
 
+- Stage 5 : Another Pros and Cons towards KSCO
+
 ![Then%20what%20is%20the%20next%20one/stage5.jpg](Then%20what%20is%20the%20next%20one/stage5.jpg)
+
+The each stages look bit different
+
+But for example, stage 4, where KSCO supporters are having a meeting, the visuals would recreate the image of the room like this image below.
+
+![Then%20what%20is%20the%20next%20one/unnamed%201.jpg](Then%20what%20is%20the%20next%20one/unnamed%201.jpg)
