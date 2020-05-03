@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="images/nogun.jpeg" width="100%">](#)
 # What is the next VHS?
 
 ### Table of Contents
