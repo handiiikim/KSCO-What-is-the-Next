@@ -232,6 +232,7 @@ Notepad
 
 ### Results
 
+
 ## 2.Translated Version of Script
 ### Description
 With the subtitle, there should be a script which is written, as I thought it could be one of the last option for archiving.
@@ -239,9 +240,11 @@ The original material that I started this project is being kept in Amsterdam whi
 ### Methods
 Firstly, I started re-construct the original scipt that I've already made. This time, I made a constitution of 5 plots.
 And then, with the re-constructed one, I translated them into English.
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+[<img src="images/translate_before.png" width="100%">]
+[<img src="images/translation.png" width="100%">]
 
 ### Results
+[Translated version of Script](images/translation.docx)
 
 ## 3.Non-linear Game
 ### Description
