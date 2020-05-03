@@ -240,11 +240,11 @@ The original material that I started this project is being kept in Amsterdam whi
 ### Methods
 Firstly, I started re-construct the original scipt that I've already made. This time, I made a constitution of 5 plots.
 And then, with the re-constructed one, I translated them into English.
-[<img src="translate_before.png" width="100%">]
-[<img src="translation.png" width="100%">]
+<img src="translate_before.png" width="100%">
+<img src="translation.png" width="100%">
 
 ### Results
-[Translated version of Script](translation.docx)
+[Translated version of Script.docx file](translation.docx)
 
 ## 3.Non-linear Game
 ### Description
