@@ -32,8 +32,7 @@ The documentary's language is Korean.
 | **Medium** | Documentary
 | **Materials** | VHS
 | **Date** | (2002?)
-|![People who don't take up arms]
-(images/nogun.jpeg)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
+|![People Who Don't Take Arms Up](images/nogun.jpeg)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
 
 # Research
 What I got impressed by is the VHS file itself was broken so I cannot access the content.
