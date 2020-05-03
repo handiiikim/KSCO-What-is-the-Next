@@ -252,9 +252,20 @@ I thought this is the core part of the film. The film doesn't talk about one sid
 The story of the content is full of circle of diverse thoughts. How could I transcode this content well? What could be the most make-sense format for this? I got an idea from a simulation game. There is a type of simulation game which is a player choose an option, and the result is going to be different by the choice. The documentary let audience think which position I support. The goal of this documentary has a connection to the way how simulation game works. Thus, I decided to create a web-game based on the plot of the documentary.
 
 ### Methods
+  
+<img src="images/stage-setting.jpg" width="90%">
+
+<img src="images/stage1.jpg" width="90%">
+
+<img src="images/stage2.jpg" width="90%">
+
+<img src="images/stage3.jpg" width="90%">
+
+<img src="images/stage4.jpg" width="90%">
+
+<img src="images/stage5.jpg" width="90%">
+
 Using HTML, I created one non-linear narrative web game.
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ### Tools
 HTML
