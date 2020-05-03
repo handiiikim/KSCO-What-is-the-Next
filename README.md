@@ -1,19 +1,19 @@
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-# TITLE HERE Example README.md Outline
+# What is the next VHS?
 
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
-    1. [The Broken VHS](#1.The-broken-vhs)
-    2. [What Is Inside of VHS](#2.What-is-inside-of-vhs)
-    3. [The Documentary](#3.The-documentary)
+    1. [The Broken VHS](#The-broken-vhs)
+    2. [What Is Inside of VHS](#What-is-inside-of-vhs)
+    3. [The Documentary](#The-documentary)
 
 3. [Transcoding](#Transcoding)
-    1. [Original Subtitle](#No.1-Original-subtitle)
-    2. [Translated Version of Script](#No.2-Translated-version-of-script)
-    3. [Non-linear Game](#No.3-Non-linear-Game)
-    4. [Transcoding Tool](#Transcoding-tool)
+    1. [Original Subtitle](#Original-subtitle)
+    2. [Translated Version of Script](#Translated-version-of-script)
+    3. [Non-linear Game](#Non-linear-Game)
+    4. [What is next after VHS](#What-is-next-after-vhs)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -26,13 +26,14 @@ The documentary's language is Korean.
 ## Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG V7/822](https://search.iisg.amsterdam/Cover/Show?author=Kim+Hwantae&callnumber=BG+V7%2F822&size=large&title=Korea+Solidarity+for+Conscientious+Objection+%28KSCO%29+%2F+Korea+Solidarity+for+Conscientious+Objection.&oclc=943884254)
+**IISG Call Number** | [IISG BG V7/822](images/originalvideo.png)
 | **Physical Description** | An earlier version of 'People who don't take up arms', 2004
 | **Type** | Object
 | **Medium** | Documentary
 | **Materials** | VHS
 | **Date** | (2002?)
-|![enter image description here](https://lh3.googleusercontent.com/proxy/cvsSsxDLf_-bMrvKRYitQblkPcZApxHIfJmhqAkxUsVN6lAYMZa8zWZMkyi6kiN-YhC2Npa24GJ6o4KtI-IXoJY6hyYSRO5GpJtK7G0)| A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
+|![People who don't take up arms]
+(https://movie.daum.net/moviedb/main?movieId=39827)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
 
 # Research
 What I got impressed by is the VHS file itself was broken so I cannot access the content.
@@ -212,7 +213,7 @@ Content-wise and Container-wise.
 For the content-part, what I focus on is "How would I like to rephrase the original content?"
 For the container-part, What I focus on is  "What could be the replacement of VHS?"
 
-## No.1 - Original Subtitle
+## 1.Original Subtitle
 ### Description
 What I got impressed by a mail from Hwantae Kim was he does have a script but he never thought of its importance.
 Script could be the last option among multiple stored digital materials. What if his videos would not be read in any machine,
@@ -231,7 +232,7 @@ Notepad
 
 ### Results
 
-## No.2 - Translated Version of Script
+## 2.Translated Version of Script
 ### Description
 With the subtitle, there should be a script which is written, as I thought it could be one of the last option for archiving.
 The original material that I started this project is being kept in Amsterdam which the first language is not Korean. To let people access it, this time, I created one translated version of script.  
@@ -242,7 +243,7 @@ And then, with the re-constructed one, I translated them into English.
 
 ### Results
 
-## No.3 - Non-linear Game
+## 3.Non-linear Game
 ### Description
 From the content, the most impressive part was the conversation/ discussion/ dialogue/ interview of different people.
 I thought this is the core part of the film. The film doesn't talk about one side. It doesn't support neither objector, nor opponent.
@@ -258,17 +259,17 @@ HTML
 ### Results
 It's still on going.
 
-## Transcoding Tool
-
+## 4.What is next after VHS
 ### Description
-
-### Aims
+To answer the question 'What could be a replacement of VHS', I chose two points which should definitely be considered. Firstly, The format should be practical. It should be accessible towards majority of people who would like to utilise. VHS is already 'dead' format, majority cannot access it as it is not a common format to get video file in it anymore. Likewise, the replacement of VHS should be very accessible towards people. And secondly, the content should be protected well. The original content is an art piece. The work should not be distributed easily as it has an artistic value. Thus, what I chose as the container of all the transcoded contents is 'QR code'.
 
 ### Methods
-
+Using a site helping to create QR code, create multiple QR codes containing all the transcoded materials.
 ### Results
 
 ### Source Links
+QR code Maker
+
 
 
 # Reflection
