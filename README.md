@@ -253,7 +253,7 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 
 ### Methods
   
-<img src="images/stage-setting.jpg" width="90%">
+<img src="images/STAGE-SETTING.jpg" width="90%">
 
 <img src="images/stage1.jpg" width="90%">
 
