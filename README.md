@@ -293,6 +293,11 @@ QR code Maker
 
 # Outcomes
 
+1. .Srt file
+2. Translated Script
+3. Web Game
+4. QR code contains all the materials.
+
 ### Outcome Links
 
 # Conclusion
