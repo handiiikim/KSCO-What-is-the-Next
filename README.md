@@ -267,6 +267,8 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 
 Using HTML, I created one non-linear narrative web game.
 
+<img src="images/process.jpg" width="90%">
+
 ### Tools
 HTML
 ### Results
