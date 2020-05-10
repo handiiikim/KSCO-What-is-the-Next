@@ -38,7 +38,7 @@ The documentary's language is Korean.
 What I got impressed by is the VHS file itself was broken so I cannot access the content.
 This small event leaded me to explore the small transcoding journey.
 
-### The Broken VHS
+### Research 1: The Broken VHS
 
 At first, I and people from IISG tried other video readers as it might be an issue from the reader. But after using 3 different machines, we concluded that the VHS got broken. What I got noticed from a specialist in ISSG is that there are multiple reasons to make VHS broken. Luckily, the reader could show some memory in the VHS, so the VHS might be fixed if I bring it in a restore place. Unfortunately, due to Covid 19, all the places started to be closed, I couldn't contact them. So I started researching by myself.
 
@@ -52,7 +52,7 @@ From the beginning to around 15min, there were black and white lines going aroun
 
 After around 15 min, there were only black and white lines going around with constant noise till the end.
 
-#### How VHS Works
+#### Research 2: How VHS Works
 
 [images/vhs.m4v](images/vhs.m4v)
 
@@ -89,7 +89,7 @@ Generation loss is the loss of quality between subsequent copies or transcodes o
 
 [https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s](https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s)
 
-### What Is Inside of VHS
+### Research 3: What Is Inside of VHS
 
 I should have tried to find a way to get source inside. There was no other way to get the content from online when I looked for. The only two ways how I could access this documentary were either **Visiting the Korean Film Archive** in Seoul or **Contacting the Director** of this film.
 
@@ -113,7 +113,7 @@ I mailed the Archive to find a way to get the video file and asked if there is a
 
 Luckily, the working from archive personally sent me a mail that he found one link from online, which is not legal site. He asked me just watch it but not copy or download it.
 
-### The Documentary
+### Research 4: The Documentary
 
 #### Synopsis
 
