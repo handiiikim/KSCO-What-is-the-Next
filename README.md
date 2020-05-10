@@ -52,7 +52,7 @@ From the beginning to around 15min, there were black and white lines going aroun
 
 After around 15 min, there were only black and white lines going around with constant noise till the end.
 
-#### Research 2: How VHS Works
+#### How VHS Works
 
 [images/vhs.m4v](images/vhs.m4v)
 
@@ -89,7 +89,7 @@ Generation loss is the loss of quality between subsequent copies or transcodes o
 
 [https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s](https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s)
 
-### Research 3: What Is Inside of VHS
+### Research 2: What Is Inside of VHS
 
 I should have tried to find a way to get source inside. There was no other way to get the content from online when I looked for. The only two ways how I could access this documentary were either **Visiting the Korean Film Archive** in Seoul or **Contacting the Director** of this film.
 
@@ -113,7 +113,7 @@ I mailed the Archive to find a way to get the video file and asked if there is a
 
 Luckily, the working from archive personally sent me a mail that he found one link from online, which is not legal site. He asked me just watch it but not copy or download it.
 
-### Research 4: The Documentary
+### Research 3: The Documentary
 
 #### Synopsis
 
@@ -197,7 +197,7 @@ A Citizen : who start having a discussion with the Protestor
 
  A Russian-South Korean Columnist: He thinks the Public opinion has been manipulated to think North Korea is enemy and they need to keep their army for saving Country by the government
 
-### Conclusion of the research
+### Research 4: Conclusion of the research
 
 So, what would I still get from this? The original film is still being broken, people would not be possible to access it. And I could get one file online, but it is not a legal way to access it.
 
