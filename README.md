@@ -19,11 +19,11 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography)
 
-# Artefact
+## Artefact
 A VHS contained a documentary film titled '총을 들지 않는 사람들' which is made in 2003. The author is Kim Hwantae.
 The documentary's language is Korean.
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG V7/822](images/originalvideo.png)
@@ -34,15 +34,15 @@ The documentary's language is Korean.
 | **Date** | (2002?)
 |![People Who Don't Take Arms Up](images/nogun.jpeg)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
 
-# Research
+## Research
 What I got impressed by is the VHS file itself was broken so I cannot access the content.
 This small event leaded me to explore the small transcoding journey.
 
-## The Broken VHS
+### The Broken VHS
 
 At first, I and people from IISG tried other video readers as it might be an issue from the reader. But after using 3 different machines, we concluded that the VHS got broken. What I got noticed from a specialist in ISSG is that there are multiple reasons to make VHS broken. Luckily, the reader could show some memory in the VHS, so the VHS might be fixed if I bring it in a restore place. Unfortunately, due to Covid 19, all the places started to be closed, I couldn't contact them. So I started researching by myself.
 
-### The State of Original Resource
+#### The State of Original Resource
 
 ![images/Screen_Shot_2020-03-23_at_02.10.34.png](images/Screen_Shot_2020-03-23_at_02.10.34.png)
 
@@ -52,7 +52,7 @@ From the beginning to around 15min, there were black and white lines going aroun
 
 After around 15 min, there were only black and white lines going around with constant noise till the end.
 
-### How VHS Works
+#### How VHS Works
 
 [images/vhs.m4v](images/vhs.m4v)
 
@@ -64,7 +64,7 @@ Anatomy of VHS - 2
 
 ![images/Untitled.png](images/Untitled.png)
 
-### What could be the reason to make VHS broken?
+#### What could be the reason to make VHS broken?
 
 **Video Tape Decay & VHS Tape Problems**
 
@@ -89,11 +89,11 @@ Generation loss is the loss of quality between subsequent copies or transcodes o
 
 [https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s](https://www.youtube.com/watch?v=G8GOcB6H0uQ&t=43s)
 
-## What Is Inside of VHS
+### What Is Inside of VHS
 
 I should have tried to find a way to get source inside. There was no other way to get the content from online when I looked for. The only two ways how I could access this documentary were either **Visiting the Korean Film Archive** in Seoul or **Contacting the Director** of this film.
 
-### Contact with Director 'Kim Taehwan' via mail
+#### Contact with Director 'Kim Taehwan' via mail
 
 **What I asked him**
 
@@ -105,7 +105,7 @@ I should have tried to find a way to get source inside. There was no other way t
 
 ![images/Screen_Shot_2020-03-09_at_12.10.26.png](images/Screen_Shot_2020-03-09_at_12.10.26.png)
 
-### 2-2. Contact with Korean Film Archive via mail
+#### Contact with Korean Film Archive via mail
 
 My first plan was asking one of my friend to go that archive and watch the film, and give me some notes that she watched. However, Outbreak of Covid 19 in Korea, the archive was closed.
 
@@ -113,13 +113,13 @@ I mailed the Archive to find a way to get the video file and asked if there is a
 
 Luckily, the working from archive personally sent me a mail that he found one link from online, which is not legal site. He asked me just watch it but not copy or download it.
 
-## The Documentary
+### The Documentary
 
-### Synopsis
+#### Synopsis
 
 Mainly focused on Oh Tae Yang who is going to be in jail for 2 years as he is an military service objector, HwanTae Kim filmed people around him and showed how they would think about objectors.
 
-### Characters
+#### Characters
 
 ![images/kbtlove_168332_1208276.jpg](images/kbtlove_168332_1208276.jpg)
 
@@ -197,7 +197,7 @@ A Citizen : who start having a discussion with the Protestor
 
  A Russian-South Korean Columnist: He thinks the Public opinion has been manipulated to think North Korea is enemy and they need to keep their army for saving Country by the government
 
-## Conclusion of the research
+### Conclusion of the research
 
 So, what would I still get from this? The original film is still being broken, people would not be possible to access it. And I could get one file online, but it is not a legal way to access it.
 
@@ -205,20 +205,20 @@ Then, what if I rephrase the content and transcode the story in another format?
 And, also, what if I try to find a replacement of VHS format?
 
 
-# Transcoding
+## Transcoding
 My main transcoding is divided into two parts.
 Content-wise and Container-wise.
 
 For the content-part, what I focus on is "How would I like to rephrase the original content?"
 For the container-part, What I focus on is  "What could be the replacement of VHS?"
 
-## Original Subtitle
-### Description
+### Transcoding 1: Original Subtitle
+#### Description
 What I got impressed by a mail from Hwantae Kim was he does have a script but he never thought of its importance.
 Script could be the last option among multiple stored digital materials. What if his videos would not be read in any machine,
 and all the digital memories are gone? Then, the last memory of his artwork would be a written script. And at least, it could be
 a documentation. The documentary even don't have any subtitles, only depending on the visual and audio. So I creating a written form of the documentary at this first round.
-### Methods
+#### Methods
 Followed the film, I wrote every sentence from the film. The quality of documentary was super low. Sound system was quite bad.
 The only one method to write them down was just listening and writing over and over again.
     <width="50%">
@@ -226,33 +226,33 @@ The only one method to write them down was just listening and writing over and o
 After this practice, I used 'Notepad', and made .srt file which is a format of subtitle. At this round, again, I tried to make a
 sync one sec by one sec.
 
-### Tools
+#### Tools
 Notepad
 
-### Results
+#### Results
 
 
-## Translated Version of Script
-### Description
+### Transcoding 2: Translated Version of Script
+#### Description
 With the subtitle, there should be a script which is written, as I thought it could be one of the last option for archiving.
 The original material that I started this project is being kept in Amsterdam which the first language is not Korean. To let people access it, this time, I created one translated version of script.  
-### Methods
+#### Methods
 Firstly, I started re-construct the original scipt that I've already made. This time, I made a constitution of 5 plots.
 And then, with the re-constructed one, I translated them into English.
 <img src="translate_before.png" width="100%">
 <img src="translation.png" width="100%">
 
-### Results
+#### Results
 [Translated version of Script.docx file](translation.docx)
 
-## Non-linear Game
-### Description
+### Transcoding 3: Non-linear Game
+#### Description
 From the content, the most impressive part was the conversation/ discussion/ dialogue/ interview of different people.
 I thought this is the core part of the film. The film doesn't talk about one side. It doesn't support neither objector, nor opponent.
 The story of the content is full of circle of diverse thoughts. How could I transcode this content well? What could be the most make-sense format for this? I got an idea from a simulation game. There is a type of simulation game which is a player choose an option, and the result is going to be different by the choice. The documentary let audience think which position I support. The goal of this documentary has a connection to the way how simulation game works. Thus, I decided to create a web-game based on the plot of the documentary.
 
-### Methods
-  
+#### Methods
+
 <img src="images/STAGE-SETTING.jpg" width="90%">
 
 <img src="images/stage1.jpg" width="90%">
@@ -269,40 +269,40 @@ Using HTML, I created one non-linear narrative web game.
 
 <img src="images/process.jpg" width="90%">
 
-### Tools
+#### Tools
 HTML
-### Results
+#### Results
 It's still on going.
 
-## What is next after VHS
-### Description
+### Transcoding 4: What is next after VHS
+#### Description
 To answer the question 'What could be a replacement of VHS', I chose two points which should definitely be considered. Firstly, The format should be practical. It should be accessible towards majority of people who would like to utilise. VHS is already 'dead' format, majority cannot access it as it is not a common format to get video file in it anymore. Likewise, the replacement of VHS should be very accessible towards people. And secondly, the content should be protected well. The original content is an art piece. The work should not be distributed easily as it has an artistic value. Thus, what I chose as the container of all the transcoded contents is 'QR code'.
 
-### Methods
+#### Methods
 Using a site helping to create QR code, create multiple QR codes containing all the transcoded materials.
-### Results
+#### Results
 
-### Source Links
+#### Source Links
 QR code Maker
 
 
 
-# Reflection
+## Reflection
 
 
 
-# Outcomes
+## Outcomes
 
 1. .Srt file
 2. Translated Script
 3. Web Game
 4. QR code contains all the materials.
 
-### Outcome Links
+#### Outcome Links
 
-# Conclusion
+## Conclusion
 
-## Bibliography
+### Bibliography
 
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
