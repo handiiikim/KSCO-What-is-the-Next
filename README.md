@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research)
+2. [Research](#Research-1)
     1. [The Broken VHS](#The-broken-vhs)
     2. [What Is Inside of VHS](#What-is-inside-of-vhs)
     3. [The Documentary](#The-documentary)
