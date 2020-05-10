@@ -121,7 +121,7 @@ Mainly focused on Oh Tae Yang who is going to be in jail for 2 years as he is an
 
 #### Characters
 
-(https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/characters.jpg)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/characters.jpg" width="100%">
 
 
 ### Research 4: Conclusion of the research
