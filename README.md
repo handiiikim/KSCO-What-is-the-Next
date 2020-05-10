@@ -121,81 +121,8 @@ Mainly focused on Oh Tae Yang who is going to be in jail for 2 years as he is an
 
 #### Characters
 
-![images/kbtlove_168332_1208276.jpg](images/kbtlove_168332_1208276.jpg)
+![images/characters.jpg](https://github.com/handiiikim/KSCO-What-is-the-Next/master/images/characters.jpg)
 
-Oh Tae Yang (Objector) - The Main Character of this animation
-
-![images/5.png](images/5.png)
-
-Military Manpower Administration Officer - Who thinks the objection is just an objection (He believes there is no other meaning it can have)
-
-![images/6.png](images/6.png)
-
-Oh's Mother - Who doesn't want him to go to jail, but cannot do anything.
-
-![images/10.png](images/10.png)
-
- A Catholic Priest - Who supports Objectors
-
-![images/11.png](images/11.png)
-
-A Member of Youth Right-Wing Party - He thinks the objectors are villains in the Korean society.
-
-![images/13.png](images/13.png)
-
-A Member of Peace Union Organisation - He has the opposite mind of guy who is in Right Wing Party.
-
-![images/14.png](images/14.png)
-
- Member of Korea Veterans Association - He believes the army should be kept for keeping Peace
-
-![images/16.png](images/16.png)
-
-A Professor in Law - He believes the objectors should be in jail
-
-![images/17.png](images/17.png)
-
-Another Professor in Law - He supports the objector's belief.
-
-![images/18.png](images/18.png)
-
-A Member of Freedom Alliance - He thinks the objectors should be in the jail as it is their choice and their responsibility
-
-![images/19.png](images/19.png)
-
-A South Korean Critic - He believes the society towards Objectors behaves cruel
-
-![images/23.png](images/23.png)
-
-Another Objector - He was in jail almost for 5 years. He couldn't have any dream about outside of jail after being in there for 1 and half years.
-
-![images/29.png](images/29.png)
-
-Pre-Objector: As a gay, he even cannot serve the military service since the society believes being queer is 'disease'.
-
-![images/30.png](images/30.png)
-
- Pre-Objector : A member of protest organisation of Korea Unity
-
-![images/32.png](images/32.png)
-
-A Supporter of KSCO: She believes, for gender equality, it should be realised disappearing of Conscription in Korea
-
-![images/33.png](images/33.png)
-
-Another Supporter of KSCO : She believes, for gender equality, it should be realised disappearing of Conscription in Korea
-
-![images/34.png](images/34.png)
-
-Another Objector : who protest on the day of Constitution Day
-
-![images/35.png](images/35.png)
-
-A Citizen : who start having a discussion with the Protestor
-
-![images/39.png](images/39.png)
-
- A Russian-South Korean Columnist: He thinks the Public opinion has been manipulated to think North Korea is enemy and they need to keep their army for saving Country by the government
 
 ### Research 4: Conclusion of the research
 
