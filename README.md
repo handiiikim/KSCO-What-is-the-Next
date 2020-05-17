@@ -2,22 +2,22 @@
 # What is the next VHS?
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-    1. [The Broken VHS](#Research-1)
-    2. [What Is Inside of VHS](#What-is-inside-of-vhs)
-    3. [The Documentary](#The-documentary)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+    1. [The Broken VHS](#research-1)
+    2. [What Is Inside of VHS](#what-is-inside-of-vhs)
+    3. [The Documentary](#the-documentary)
 
-3. [Transcoding](#Transcoding)
-    1. [Original Subtitle](#Original-subtitle)
-    2. [Translated Version of Script](#Translated-version-of-script)
-    3. [Non-linear Game](#Non-linear-Game)
-    4. [What is next after VHS](#What-is-next-after-vhs)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+3. [Transcoding](#transcoding)
+    1. [Original Subtitle](#original-subtitle)
+    2. [Translated Version of Script](#translated-version-of-script)
+    3. [Non-linear Game](#non-linear-Game)
+    4. [What is next after VHS](#what-is-next-after-vhs)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 ## Artefact
 A VHS contained a documentary film titled '총을 들지 않는 사람들' which is made in 2003. The author is Kim Hwantae.
