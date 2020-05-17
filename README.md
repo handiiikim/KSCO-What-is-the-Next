@@ -180,6 +180,7 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 
 #### Methods
 First idea was creating a stage where people can enter and experience the story of documentary. However, this script is completely followed by the original storyline. It is hard to make player interactively take action. 
+
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/STAGE-SETTING.jpg" width="90%">
 
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage1.jpg" width="90%">
@@ -194,26 +195,31 @@ First idea was creating a stage where people can enter and experience the story 
 
 So, I changed the idea of not following the original storyline: Non Linear Game.
 Using HTML and Javascript. I started designing the floor plan of the game.
-(SKETCH 1)
+
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process1.jpg" width="100%">
-The structure doesn't seem have a connection with sources from VHS/ Documentary. So I decided to bring the size of VHS video for the size of screen. And took the structure of documentary for the conversation part between 'player' and 'characters' 
-(SKETCH 2)
+
+The structure doesn't seem have a connection with sources from VHS/ Documentary. So I decided to bring the size of VHS video for the size of screen. And took the structure of documentary for the conversation part between 'player' and 'characters'.
+
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process2.jpg" width="100%">
+
 After making the structure, I figured out it's quite hard to reed. So tried another version to make it look better.
-(SKETCH 3)
+
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process3.jpg" width="100%">
+
 Still, I was not sure of the structure. I cleaned my previous idea. And thought how I could make this core part of 'conversation/interaction' between player and character. And finally, I went back to the first inspiration : Simulation game. 
 So I took the structure of the game. And finally got the floor plan for the game.
-(SKETCH 4)
+
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process4.jpg" width="100%">
+
 After making the structure, I dived into designing style of the game :Using typography which is font from VHS. And used the interactive sources: background, images, video/ audio clips from the VHS film.
-(DESIGN)
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process5.jpg" width="100%">
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process6.jpg" width="100%">
+
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process5-1.jpg" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process5-2.jpg" width="100%">
 
 #### Tools
 HTML, Javascript
 #### Results
+An online game
 
 ## Outcomes
 
