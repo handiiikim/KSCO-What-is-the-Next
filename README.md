@@ -219,7 +219,7 @@ After making the structure, I dived into designing style of the game :Using typo
 #### Tools
 HTML, Javascript
 #### Results
-Script of web game (script for web game.pdf)
+Script of web game (script-for-web-game.pdf)
 An online game (Outcome is in Outcome section)
 
 ## Reflection
@@ -231,7 +231,8 @@ Honestly, I got stuck so many times, and felt stressed so much while transcoding
 
 1. .Srt file
 2. Translated Script
-3. Online(HTML) Game
+3. Script for Web Game
+4. Online(HTML) Game
 
 #### Outcome Links
 
