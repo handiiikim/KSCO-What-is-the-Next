@@ -171,7 +171,7 @@ And then, with the re-constructed one, I translated them into English.
 #### Results
 [Translated version of Script.docx file](translation.docx)
 
-### Transcoding 3: Non-linear Game
+### Transcoding 3: Non Linear Game
 #### Description
 From the content, the most impressive part was the conversation/ discussion/ dialogue/ interview of different people.
 I thought this is the core part of the film. The film doesn't talk about one side. It doesn't support neither objector, nor opponent.
