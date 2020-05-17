@@ -11,7 +11,7 @@
 
 3. [Transcoding](#transcoding)
     1. [Original Subtitle](#transcoding-1-original-subtitle)
-    2. [Translated Version of Script](transcoding-2-translated-version-of-script)
+    2. [Translated Version of Script](#transcoding-2-translated-version-of-script)
     3. [Non-linear Game](#transcoding-3-non-linear-game)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
