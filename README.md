@@ -219,8 +219,8 @@ After making the structure, I dived into designing style of the game :Using typo
 #### Tools
 HTML, Javascript
 #### Results
-Script of web game (script-for-web-game.pdf)
-An online game (Outcome is in Outcome section)
+[Script for web game](script-for-web-game.pdf)
+An online game Outcome - in Outcome section
 
 ## Reflection
 At first, I am very happy we've been going through really well in this weird situation. I clearly remember when the assignment was revealed and I was really not sure how I would make it real. But, we made it. Honestly, this assignment was the hardest one among all the assignments. There were so many things that I’ve never touched before like knowledge about VHS, the way how to make simulation game…  To understand what I want to do, I needed to take actions which I never did. Going places to get sources, Contacting people like film director, librarians, workers in Archive who I never met  to find answers, Finding alternative ways to make this work happen…I was really happy and enthusiastic on running into research world.
