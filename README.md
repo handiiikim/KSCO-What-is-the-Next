@@ -236,7 +236,7 @@ Honestly, I got stuck so many times, and felt stressed so much while transcoding
 
 1.
 2. [Translated version of Script.docx file](translation.docx)
-3. [Web Game](https://handiiikim.github.io/What-would-you-choose-in-vhs/start/index.html)
+3. [Web Game](https://handiiikim.github.io/What-would-you-choose-in-vhs/prologue.html)
 
 
 ## Conclusion
