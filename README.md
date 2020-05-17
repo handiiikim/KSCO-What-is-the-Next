@@ -176,10 +176,10 @@ And then, with the re-constructed one, I translated them into English.
 #### Description
 From the content, the most impressive part was the conversation/ discussion/ dialogue/ interview of different people.
 I thought this is the core part of the film. The film doesn't talk about one side. It doesn't support neither objector, nor opponent.
-The story of the content is full of circle of diverse thoughts. How could I transcode this content well? What could be the most make-sense format for this? I got an idea from a simulation game. There is a type of simulation game which is a player choose an option, and the result is going to be different by the choice. The documentary let audience think which position I support. The goal of this documentary has a connection to the way how simulation game works. Thus, I decided to create a web-game based on the plot of the documentary.
+The story of the content is full of circle of diverse thoughts. How could I transcode this content well? What could be the most make-sense format for this? I got an idea from a simulation game. There is a type of simulation game which is a player choose an option, and the result is going to be different by the choice. The documentary let audience think which position I support. The goal of this documentary has a connection to the way how simulation game works. Thus, I decided to create a non linear web game based on the plot of the script of documentary.
 
 #### Methods
-
+First idea was creating a stage where people can enter and experience the story of documentary. However, this script is completely followed by the original storyline. It is hard to make player interactively take action. 
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/STAGE-SETTING.jpg" width="90%">
 
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage1.jpg" width="90%">
@@ -192,14 +192,28 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage5.jpg" width="100%">
 
-Using HTML, I created one non-linear narrative web game.
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process.jpg" width="100%">
+So, I changed the idea of not following the original storyline: Non Linear Game.
+Using HTML and Javascript. I started designing the floor plan of the game.
+(SKETCH 1)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process1.jpg" width="100%">
+The structure doesn't seem have a connection with sources from VHS/ Documentary. So I decided to bring the size of VHS video for the size of screen. And took the structure of documentary for the conversation part between 'player' and 'characters' 
+(SKETCH 2)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process2.jpg" width="100%">
+After making the structure, I figured out it's quite hard to reed. So tried another version to make it look better.
+(SKETCH 3)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process3.jpg" width="100%">
+Still, I was not sure of the structure. I cleaned my previous idea. And thought how I could make this core part of 'conversation/interaction' between player and character. And finally, I went back to the first inspiration : Simulation game. 
+So I took the structure of the game. And finally got the floor plan for the game.
+(SKETCH 4)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process4.jpg" width="100%">
+After making the structure, I dived into designing style of the game :Using typography which is font from VHS. And used the interactive sources: background, images, video/ audio clips from the VHS film.
+(DESIGN)
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process5.jpg" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process6.jpg" width="100%">
 
 #### Tools
-HTML
+HTML, Javascript
 #### Results
-It's still on going.
 
 ## Outcomes
 
