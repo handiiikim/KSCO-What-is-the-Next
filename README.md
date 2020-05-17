@@ -68,7 +68,7 @@ Anatomy of VHS - 2
 **Video Tape Decay & VHS Tape Problems**
 
 
-![images/vhs.gif]<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.gif" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.gif" width="100%">
 
 VHS, VHS-C, SVHS, Hi 8, Digital 8, and even DV all share one thing in common: they are magnetic media. And the trouble with magnetic charge ("remanence") is that it is fundamentally impermanent. But that's just the beginning of the trouble for videotape, for there is a long list of ways it can deteriorate:
 
