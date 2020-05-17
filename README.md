@@ -221,6 +221,11 @@ HTML, Javascript
 #### Results
 An online game
 
+## Reflection
+At first, I am very happy we've been going through really well in this weird situation. I clearly remember when the assignment was revealed and I was really not sure how I would make it real. But, we made it. Honestly, this assignment was the hardest one among all the assignments. There were so many things that I’ve never touched before like knowledge about VHS, the way how to make simulation game…  To understand what I want to do, I needed to take actions which I never did. Going places to get sources, Contacting people like film director, librarians, workers in Archive who I never met  to find answers, Finding alternative ways to make this work happen…I was really happy and enthusiastic on running into research world.
+
+Honestly, I got stuck so many times, and felt stressed so much while transcoding it. When you imagine something and sketch in your mind. It does always look cool and seems you can make it. But when it comes to reality, it is way harder than you expect. To me, writing script was already tough. The content was not easy topic to understand. To translate it into English, I needed to learn about terminologies about politics, military, etc. When I started working on Web game which is the first time to me, it was HARSH. I never thoroughly thought about how to make it, how to visualise it, and how to make it interactive.  Everything was created one step by one step. Making trials and fixing them. Getting feedbacks. This cycle was going again and again and again. I clearly understand why creating game is mainly created by group/ collaboration with multiple people. However, step by step, I tried to move on and finally reached somewhere. I think I really could learn a lot with this project in this semester.
+
 ## Outcomes
 
 1. .Srt file
@@ -229,4 +234,11 @@ An online game
 
 #### Outcome Links
 
+1.
+2. [Translated version of Script.docx file](translation.docx)
+3. [Web Game](https://handiiikim.github.io/What-would-you-choose-in-vhs/start/index.html)
+
+
 ## Conclusion
+
+I am curious who will be accessing this game in the future. Would this game still be alive in 3 years? 5 years? or 10 years? I just imagine someone who will transcode my transcoding of the VHS film. Transcoding of transcoding of transcoding of…. I hope this is going to happen and the original art piece never disappear.
