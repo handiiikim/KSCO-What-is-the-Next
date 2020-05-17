@@ -1,4 +1,4 @@
-[<img src="images/nogun.jpeg" width="100%">](#)
+[<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/cover.jpg" width="100%">](#)
 # What is the next VHS?
 
 ### Table of Contents
