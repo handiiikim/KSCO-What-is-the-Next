@@ -6,18 +6,17 @@
     1. [Metadata](#metadata)
 2. [Research](#research)
     1. [The Broken VHS](#research-1-the-broken-vhs)
-    2. [What Is Inside of VHS](#what-is-inside-of-vhs)
-    3. [The Documentary](#the-documentary)
+    2. [What Is Inside of VHS](#research-2-what-is-inside-of-vhs)
+    3. [The Documentary](#research-3-the-documentary)
 
 3. [Transcoding](#transcoding)
-    1. [Original Subtitle](#original-subtitle)
-    2. [Translated Version of Script](#translated-version-of-script)
-    3. [Non-linear Game](#non-linear-Game)
-    4. [What is next after VHS](#what-is-next-after-vhs)
+    1. [Original Subtitle](#transcoding-1-original-subtitle)
+    2. [Translated Version of Script](transcoding-2-translated-version-of-script)
+    3. [Non-linear Game](#transcoding-3-non-linear-game)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography)
+
 
 ## Artefact
 A VHS contained a documentary film titled '총을 들지 않는 사람들' which is made in 2003. The author is Kim Hwantae.
@@ -26,13 +25,13 @@ The documentary's language is Korean.
 ### Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG V7/822](images/originalvideo.png)
+**IISG Call Number** | [IISG BG V7/822](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/originalvideo.png)
 | **Physical Description** | An earlier version of 'People who don't take up arms', 2004
 | **Type** | Object
 | **Medium** | Documentary
 | **Materials** | VHS
 | **Date** | (2002?)
-|![People Who Don't Take Arms Up](images/nogun.jpeg)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
+|![People Who Don't Take Arms Up](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.png)| One Scene from the documentary : A man protesting against Korean Military System hold a fake gun which a rose is put on the muzzle of the gun.
 
 ## Research
 What I got impressed by is the VHS file itself was broken so I cannot access the content.
@@ -44,31 +43,31 @@ At first, I and people from IISG tried other video readers as it might be an iss
 
 #### The State of Original Resource
 
-![images/Screen_Shot_2020-03-23_at_02.10.34.png](images/Screen_Shot_2020-03-23_at_02.10.34.png)
+![images/Screen_Shot_2020-03-23_at_02.10.34.png](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/Screen_Shot_2020-03-23_at_02.10.34.png)
 
 From the beginning to around 15min, there were black and white lines going around, but still formulating a specific visual with a sound-like noise.
 
-![images/Screen_Shot_2020-03-05_at_01.19.52.png](images/Screen_Shot_2020-03-05_at_01.19.52.png)
+![images/Screen_Shot_2020-03-05_at_01.19.52.png](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/Screen_Shot_2020-03-05_at_01.19.52.png)
 
 After around 15 min, there were only black and white lines going around with constant noise till the end.
 
 #### How VHS Works
 
-[images/vhs.m4v](images/vhs.m4v)
+[images/vhs.m4v](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.m4v)
 
 Anatomy of VHS -1
 
-![images/how_vhs_looks.gif](images/how_vhs_looks.gif)
+![images/how_vhs_looks.gif](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/how_vhs_looks.gif)
 
 Anatomy of VHS - 2
 
-![images/Untitled.png](images/Untitled.png)
+![images/Untitled.png](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/Untitled.png)
 
 #### What could be the reason to make VHS broken?
 
 **Video Tape Decay & VHS Tape Problems**
 
-![images/vhs.gif](images/vhs.gif)
+![images/vhs.gif](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.gif)
 
 VHS, VHS-C, SVHS, Hi 8, Digital 8, and even DV all share one thing in common: they are magnetic media. And the trouble with magnetic charge ("remanence") is that it is fundamentally impermanent. But that's just the beginning of the trouble for videotape, for there is a long list of ways it can deteriorate:
 
@@ -81,7 +80,7 @@ VHS, VHS-C, SVHS, Hi 8, Digital 8, and even DV all share one thing in common: th
 
 **Generation Loss**
 
-![images/maxresdefault.jpg](images/maxresdefault.jpg)
+![images/maxresdefault.jpg](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/maxresdefault.jpg)
 
 Generation loss is the loss of quality between subsequent copies or transcodes of data. Anything that reduces the quality of the representation when copying, and would cause a further reduction in quality on making a copy of the copy, can be considered a form of generation loss. File size increases are a common result of generation loss, as the introduction of artefacts may actually increase the entropy of the data through each generation.
 
@@ -103,7 +102,7 @@ I should have tried to find a way to get source inside. There was no other way t
 
 **His Answer**
 
-![images/Screen_Shot_2020-03-09_at_12.10.26.png](images/Screen_Shot_2020-03-09_at_12.10.26.png)
+![images/Screen_Shot_2020-03-09_at_12.10.26.png](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/Screen_Shot_2020-03-09_at_12.10.26.png)
 
 #### Contact with Korean Film Archive via mail
 
@@ -166,8 +165,8 @@ The original material that I started this project is being kept in Amsterdam whi
 #### Methods
 Firstly, I started re-construct the original scipt that I've already made. This time, I made a constitution of 5 plots.
 And then, with the re-constructed one, I translated them into English.
-<img src="translate_before.png" width="100%">
-<img src="translation.png" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/translate_before.png" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/translation.png" width="100%">
 
 #### Results
 [Translated version of Script.docx file](translation.docx)
@@ -180,56 +179,33 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 
 #### Methods
 
-<img src="images/STAGE-SETTING.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/STAGE-SETTING.jpg" width="90%">
 
-<img src="images/stage1.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage1.jpg" width="90%">
 
-<img src="images/stage2.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage2.jpg" width="100%">
 
-<img src="images/stage3.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage3.jpg" width="100%">
 
-<img src="images/stage4.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage4.jpg" width="100%">
 
-<img src="images/stage5.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage5.jpg" width="100%">
 
 Using HTML, I created one non-linear narrative web game.
 
-<img src="images/process.jpg" width="90%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/process.jpg" width="100%">
 
 #### Tools
 HTML
 #### Results
 It's still on going.
 
-### Transcoding 4: What is next after VHS
-#### Description
-To answer the question 'What could be a replacement of VHS', I chose two points which should definitely be considered. Firstly, The format should be practical. It should be accessible towards majority of people who would like to utilise. VHS is already 'dead' format, majority cannot access it as it is not a common format to get video file in it anymore. Likewise, the replacement of VHS should be very accessible towards people. And secondly, the content should be protected well. The original content is an art piece. The work should not be distributed easily as it has an artistic value. Thus, what I chose as the container of all the transcoded contents is 'QR code'.
-
-#### Methods
-Using a site helping to create QR code, create multiple QR codes containing all the transcoded materials.
-#### Results
-
-#### Source Links
-QR code Maker
-
-
-
-## Reflection
-
-
-
 ## Outcomes
 
 1. .Srt file
 2. Translated Script
-3. Web Game
-4. QR code contains all the materials.
+3. Online(HTML) Game
 
 #### Outcome Links
 
 ## Conclusion
-
-### Bibliography
-
-
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
