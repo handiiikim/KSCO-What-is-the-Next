@@ -219,7 +219,7 @@ After making the structure, I dived into designing style of the game :Using typo
 #### Tools
 HTML, Javascript
 #### Results
-Script of web game (script-for-web-game.pdf)
+Script of web game (script for web game.pdf)
 An online game (Outcome is in Outcome section)
 
 ## Reflection
