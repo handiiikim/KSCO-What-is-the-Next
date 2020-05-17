@@ -5,7 +5,7 @@
 1. [Artefact](#artefact)
     1. [Metadata](#metadata)
 2. [Research](#research)
-    1. [The Broken VHS](#research-1)
+    1. [The Broken VHS](#research-1:the-broken-vhs)
     2. [What Is Inside of VHS](#what-is-inside-of-vhs)
     3. [The Documentary](#the-documentary)
 
