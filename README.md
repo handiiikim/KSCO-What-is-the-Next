@@ -148,16 +148,13 @@ a documentation. The documentary even don't have any subtitles, only depending o
 #### Methods
 Followed the film, I wrote every sentence from the film. The quality of documentary was super low. Sound system was quite bad.
 The only one method to write them down was just listening and writing over and over again.
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-After this practice, I used 'Notepad', and made .srt file which is a format of subtitle. At this round, again, I tried to make a
-sync one sec by one sec.
+After this practice, I used 'Notepad', and made .srt file which is a format of subtitle. At this round, again, I tried to make a sync one sec by one sec.
 
 #### Tools
 Notepad
 
 #### Results
-
+[Original Subtitle SRT file](people-who-dont-take-arms-up.srt)
 
 ### Transcoding 2: Translated Version of Script
 #### Description
@@ -236,7 +233,7 @@ Honestly, I got stuck so many times, and felt stressed so much while transcoding
 
 #### Outcome Links
 
-1. [Original Subtitle]()
+1. [Original Subtitle](people-who-dont-take-arms-up.srt)
 2. [Translated version of Script.docx file](translation.docx)
 3. [Script for web game](script-for-web-game.pdf)
 4. [Web Game "What would you choose in VHS"](https://handiiikim.github.io/What-would-you-choose-in-vhs/prologue)
