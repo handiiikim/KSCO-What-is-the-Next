@@ -68,7 +68,7 @@ Anatomy of VHS - 2
 **Video Tape Decay & VHS Tape Problems**
 
 
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/vhs.gif" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/decay.jpg" width="100%">
 
 VHS, VHS-C, SVHS, Hi 8, Digital 8, and even DV all share one thing in common: they are magnetic media. And the trouble with magnetic charge ("remanence") is that it is fundamentally impermanent. But that's just the beginning of the trouble for videotape, for there is a long list of ways it can deteriorate:
 
@@ -178,17 +178,7 @@ The story of the content is full of circle of diverse thoughts. How could I tran
 #### Methods
 First idea was creating a stage where people can enter and experience the story of documentary. However, this script is completely followed by the original storyline. It is hard to make player interactively take action. 
 
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/STAGE-SETTING.jpg" width="90%">
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage1.jpg" width="90%">
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage2.jpg" width="100%">
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage3.jpg" width="100%">
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage4.jpg" width="100%">
-
-<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage5.jpg" width="100%">
+<img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/stage.jpg" width="100%">
 
 So, I changed the idea of not following the original storyline: Non Linear Game.
 Using HTML and Javascript. I started designing the floor plan of the game.
