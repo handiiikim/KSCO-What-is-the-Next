@@ -154,7 +154,7 @@ After this practice, I used 'Notepad', and made .srt file which is a format of s
 Notepad
 
 #### Results
-[Original Subtitle SRT file](people-who-dont-take-arms-up.srt)
+[Original Subtitle SRT file](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/people-who-dont-take-arms-up.srt)
 
 ### Transcoding 2: Translated Version of Script
 #### Description
@@ -167,7 +167,7 @@ And then, with the re-constructed one, I translated them into English.
 <img src="https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/images/translation.png" width="100%">
 
 #### Results
-[Translated version of Script.docx file](translation.docx)
+[Translated version of Script.docx file](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/translation.docx)
 
 ### Transcoding 3: Non Linear Game
 #### Description
@@ -206,7 +206,7 @@ After making the structure, I dived into designing style of the game :Using typo
 #### Tools
 HTML, Javascript
 #### Results
-[Script for web game](script-for-web-game.pdf)\
+[Script for web game](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/script-for-web-game.pdf)\
 [An online game](https://handiiikim.github.io/What-would-you-choose-in-vhs/prologue)
 
 ## Reflection
@@ -223,9 +223,9 @@ Honestly, I got stuck so many times, and felt stressed so much while transcoding
 
 #### Outcome Links
 
-1. [Original Subtitle](people-who-dont-take-arms-up.srt)
-2. [Translated version of Script.docx file](translation.docx)
-3. [Script for web game](script-for-web-game.pdf)
+1. [Original Subtitle](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/people-who-dont-take-arms-up.srt)
+2. [Translated version of Script.docx file](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/translation.docx)
+3. [Script for web game](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/script-for-web-game.pdf)
 4. [Web Game "What would you choose in VHS"](https://handiiikim.github.io/What-would-you-choose-in-vhs/prologue)
 
 
