@@ -216,13 +216,6 @@ Honestly, I got stuck so many times, and felt stressed so much while transcoding
 
 ## Outcomes
 
-1. .Srt file
-2. Translated Script
-3. Script for Web Game
-4. Online(HTML) Game
-
-#### Outcome Links
-
 1. [Original Subtitle](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/people-who-dont-take-arms-up.srt)
 2. [Translated version of Script.docx file](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/translation.docx)
 3. [Script for web game](https://github.com/handiiikim/KSCO-What-is-the-Next/blob/master/script-for-web-game.pdf)
