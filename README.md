@@ -14,7 +14,7 @@
     2. [Translated Version of Script](#transcoding-2-translated-version-of-script)
     3. [Non-linear Game](#transcoding-3-non-linear-game)
 4. [Reflection](#reflection)
-5. [Outcome](#outcome)
+5. [Outcomes](#outcomes)
 6. [Conclusion](#conclusion)
 
 
